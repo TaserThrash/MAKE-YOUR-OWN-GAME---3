@@ -3,3 +3,4 @@ change animation for island and artifact
 add music
 make classes easier look code
 levels
+obstacle = sharp candy corn
